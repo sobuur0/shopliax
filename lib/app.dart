@@ -3,7 +3,7 @@ import 'package:provider/provider.dart';
 import 'package:shopliax_assesement/screens/bottom_nav_bar.dart';
 import 'package:shopliax_assesement/stores/photo/photo_store.dart';
 import 'package:shopliax_assesement/stores/todo/todo_store.dart';
-import 'package:shopliax_assesement/themes.dart/shopliax_theme.dart';
+import 'package:shopliax_assesement/themes/shopliax_theme.dart';
 
 class ShopliaxApp extends StatelessWidget {
   const ShopliaxApp({super.key});

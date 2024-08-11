@@ -4,7 +4,7 @@ import 'package:shopliax_assesement/screens/home/home.dart';
 import 'package:shopliax_assesement/screens/photo/photo_screen.dart';
 import 'package:shopliax_assesement/screens/todo/todo_create_screen.dart';
 import 'package:shopliax_assesement/screens/todo/todo_list_screen.dart';
-import 'package:shopliax_assesement/themes.dart/colors.dart';
+import 'package:shopliax_assesement/themes/colors.dart';
 
 class AppNavBar extends StatefulWidget {
   const AppNavBar({super.key});

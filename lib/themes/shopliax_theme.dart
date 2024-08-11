@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:shopliax_assesement/themes.dart/colors.dart';
-import 'package:shopliax_assesement/themes.dart/shopliax_typography.dart';
+import 'package:shopliax_assesement/themes/colors.dart';
+import 'package:shopliax_assesement/themes/shopliax_typography.dart';
 
 class ShopliaxTheme {
   static ThemeData light() {
@@ -77,7 +77,6 @@ class ShopliaxTheme {
     contentPadding: const EdgeInsets.symmetric(vertical: 12, horizontal: 16),
     hintStyle:
         ShopliaxTypography.p2.copyWith(color: ShopliaxColors.borderColor),
-    // prefixIconColor: BilitColors.harmoniesColor,
     suffixIconColor: ShopliaxColors.primaryColor,
   );
 }

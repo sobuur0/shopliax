@@ -3,7 +3,7 @@ import 'package:flutter_mobx/flutter_mobx.dart';
 import 'package:intl/intl.dart';
 import 'package:provider/provider.dart';
 import 'package:shopliax_assesement/stores/todo/todo_store.dart';
-import 'package:shopliax_assesement/themes.dart/colors.dart';
+import 'package:shopliax_assesement/themes/colors.dart';
 
 class TodoListScreen extends StatelessWidget {
   const TodoListScreen({super.key});

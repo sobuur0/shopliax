@@ -5,7 +5,7 @@ import 'package:persistent_bottom_nav_bar/persistent_bottom_nav_bar.dart';
 import 'package:provider/provider.dart';
 import 'package:shopliax_assesement/models/todo/todo_item.dart';
 import 'package:shopliax_assesement/stores/todo/todo_store.dart';
-import 'package:shopliax_assesement/themes.dart/colors.dart';
+import 'package:shopliax_assesement/themes/colors.dart';
 
 class HomeScreen extends StatefulWidget {
   final PersistentTabController? tabController;

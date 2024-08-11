@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:shopliax_assesement/themes.dart/colors.dart';
+import 'package:shopliax_assesement/themes/colors.dart';
 
 class IconContainer extends StatelessWidget {
   const IconContainer({super.key});

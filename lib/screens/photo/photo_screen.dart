@@ -3,7 +3,7 @@ import 'package:flutter/material.dart';
 import 'package:flutter_mobx/flutter_mobx.dart';
 import 'package:provider/provider.dart';
 import 'package:shopliax_assesement/stores/photo/photo_store.dart';
-import 'package:shopliax_assesement/themes.dart/colors.dart';
+import 'package:shopliax_assesement/themes/colors.dart';
 
 class PhotoScreen extends StatefulWidget {
   @override
